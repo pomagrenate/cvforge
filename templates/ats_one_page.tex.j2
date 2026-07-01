@@ -1,0 +1,68 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.55in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\pagenumbering{gobble}
+\setlength{\parindent}{0pt}
+\setlist[itemize]{leftmargin=*, topsep=1pt, itemsep=1pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
+\titlespacing{\section}{0pt}{6pt}{3pt}
+
+\begin{document}
+{\LARGE \textbf{ {{- profile.personal.name -}} }}\\
+{{ profile.personal.location }} \quad
+\href{mailto:{{ profile.personal.email }}}{{ profile.personal.email }} \quad
+{{ profile.personal.phone }} \quad
+\href{ {{- profile.personal.github -}} }{GitHub} \quad
+\href{ {{- profile.personal.linkedin -}} }{LinkedIn} \quad
+\href{ {{- profile.personal.website -}} }{Website}
+
+\vspace{3pt}
+\textbf{ {{- cv.headline -}} }
+
+\section*{Summary}
+{{ cv.summary }}
+
+\section*{Skills}
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+{% for category, items in cv.skills.items() if items %}
+\textbf{ {{- category -}} } & {{ items | join(", ") }} \\
+{% endfor %}
+\end{tabularx}
+
+{% if cv.experiences %}
+\section*{Experience}
+{% for exp in cv.experiences %}
+\textbf{ {{- exp.role -}} } \hfill {{ exp.date }}\\
+{{ exp.company }}
+\begin{itemize}
+{% for bullet in exp.bullets[:3] %}
+\item {{ bullet }}
+{% endfor %}
+\end{itemize}
+{% endfor %}
+{% endif %}
+
+{% if cv.projects %}
+\section*{Projects}
+{% for project in cv.projects[:3] %}
+\textbf{ {{- project.name -}} } {% if project.technologies %}\hfill {{ project.technologies | join(", ") }}{% endif %}
+\begin{itemize}
+{% for bullet in project.bullets[:3] %}
+\item {{ bullet }}
+{% endfor %}
+\end{itemize}
+{% endfor %}
+{% endif %}
+
+{% if cv.education %}
+\section*{Education}
+{% for edu in cv.education %}
+\textbf{ {{- edu.school -}} } \hfill {{ edu.date }}\\
+{{ edu.degree }}
+{% endfor %}
+{% endif %}
+
+\end{document}

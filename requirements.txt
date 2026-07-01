@@ -1,0 +1,8 @@
+streamlit
+pydantic
+jinja2
+requests
+python-dotenv
+rich
+typer
+pandas

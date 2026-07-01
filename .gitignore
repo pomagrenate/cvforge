@@ -141,3 +141,14 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# CV Forge local runtime data
+data/cvtool.sqlite
+exports/*
+!exports/.gitkeep
+.streamlit-run.*.log

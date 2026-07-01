@@ -1,0 +1,804 @@
+{
+  "personal": {
+    "name": "Quan Van",
+    "email": "vanhaminhquan2406@gmail.com",
+    "phone": "+84 794 997 905",
+    "location": "Ho Chi Minh City, Vietnam",
+    "github": "https://github.com/pomagrenate",
+    "linkedin": "https://www.linkedin.com/in/quan-van-15a5b3248/",
+    "website": "https://pomaidb-web.vercel.app/"
+  },
+  "target_roles": [
+    "Junior AI Engineer",
+    "Junior Applied AI Engineer",
+    "Junior LLM Engineer",
+    "Junior RAG Engineer",
+    "Junior Backend AI Engineer",
+    "Junior Full-stack Developer",
+    "Junior Backend Developer",
+    "Junior Business Analyst",
+    "Junior Product Owner",
+    "Technical Product Assistant",
+    "AI Product Engineer"
+  ],
+  "summary_facts": [
+    "Applied AI Engineer and Full-stack Developer focused on local-first LLM systems, agentic RAG platforms, backend AI services, vector retrieval, and practical AI product integration.",
+    "Experienced in building end-to-end systems that combine frontend interfaces, backend APIs, database design, AI inference, retrieval pipelines, and product workflows.",
+    "Strong interest in system building, performance optimization, local AI deployment, CPU-friendly inference, and turning difficult technical problems into usable software systems.",
+    "Built SaaS platforms, backend services, real-time communication features, AI search systems, local RAG pipelines, embedded vector database components, and AI automation workflows.",
+    "Comfortable working across product, engineering, and research layers: from gathering requirements and planning features to implementing APIs, optimizing performance, and integrating AI components.",
+    "Can contribute to AI Engineer roles through LLM integration, RAG, prompt workflows, tool-calling, OCR/STT/TTS pipelines, vector search, and local model deployment.",
+    "Can contribute to Full-stack Developer roles through ReactJS, NextJS, Node.js, ExpressJS, Flask, REST APIs, authentication, authorization, WebSockets, dashboards, and database-backed applications.",
+    "Can contribute to Business Analyst or Product Owner roles through requirement gathering, stakeholder communication, competitor research, feature refinement, task breakdown, product thinking, and translating business goals into engineering tasks.",
+    "Known for being product-minded, backend-aware, performance-focused, AI-ready, and comfortable taking technical ownership from idea to implementation.",
+    "Currently completing a B.S. in Information Technology with a GPA of 3.72/4.00."
+  ],
+  "role_positioning": {
+    "ai_engineer": [
+      "Local-first AI engineer focused on RAG, LLM inference, agent tooling, vector retrieval, and backend AI services.",
+      "Able to connect model inference, document processing, speech processing, search, and backend APIs into usable AI product pipelines.",
+      "Experienced with CPU-friendly local AI workflows using GGUF models, Qwen models, llama.cpp-style inference, context compression, prompt caching, and local vector search.",
+      "Able to work on AI infrastructure, AI product integration, retrieval systems, and automation tools without depending heavily on cloud-only AI services."
+    ],
+    "fullstack_developer": [
+      "Full-stack developer focused on SaaS platforms, responsive web applications, backend services, real-time systems, and AI-powered product features.",
+      "Able to build frontend dashboards, backend APIs, authentication flows, database schemas, background jobs, WebSocket features, and AI search integration.",
+      "Comfortable connecting frontend, backend, data storage, message queues, caching, and AI services into complete working products."
+    ],
+    "backend_developer": [
+      "Backend-focused developer experienced with REST APIs, microservices, API Gateway patterns, authentication, authorization, message queues, Redis caching, database design, and service integration.",
+      "Able to design maintainable backend services with clear boundaries, structured data flow, and practical deployment considerations."
+    ],
+    "business_analyst": [
+      "Technical business analyst profile with experience turning business goals into engineering tasks, supporting product direction through competitor research, and clarifying requirements with clients and team members.",
+      "Able to bridge technical and non-technical communication by translating user needs, product ideas, and business constraints into clear features, tasks, and implementation plans."
+    ],
+    "product_owner": [
+      "Junior product owner profile with hands-on product-building experience across HRM, healthcare retrieval, AI automation, dashboards, real-time communication, and backend systems.",
+      "Able to think from user value, define useful features, prioritize practical implementation, and work closely with engineers to move ideas into working software."
+    ]
+  },
+  "skills": {
+    "ai_llm": [
+      "LLM integration",
+      "Local LLM inference",
+      "GGUF model deployment",
+      "Qwen models",
+      "Qwen2.5",
+      "Qwen 0.5B",
+      "llama.cpp-style local inference",
+      "Agentic RAG",
+      "Retrieval-Augmented Generation",
+      "RAG backend design",
+      "Tool-calling",
+      "Agent tools",
+      "Local AI agents",
+      "Prompt engineering",
+      "Prompt caching",
+      "Semantic prompt caching",
+      "Context compression",
+      "Context squeezing",
+      "Local model hosting",
+      "AI workflow orchestration",
+      "AI automation workflows",
+      "Document AI workflows",
+      "OCR integration",
+      "Speech-to-text integration",
+      "Text-to-speech integration",
+      "NLP workflows",
+      "Semantic search",
+      "Vector retrieval",
+      "Private AI deployment",
+      "On-premise AI deployment",
+      "Edge AI deployment",
+      "CPU-friendly AI systems",
+      "Resource-efficient AI inference",
+      "Multimodal workflow integration",
+      "AI search systems"
+    ],
+    "backend": [
+      "Node.js",
+      "NestJS",
+      "ExpressJS",
+      "Python Flask",
+      "REST APIs",
+      "API Gateway",
+      "Microservices",
+      "Service-oriented architecture",
+      "Backend AI services",
+      "Authentication",
+      "Authorization",
+      "JWT",
+      "OAuth2",
+      "RBAC",
+      "Workspace isolation",
+      "Multi-tenant system design",
+      "Background jobs",
+      "Message queues",
+      "RabbitMQ",
+      "Redis caching",
+      "WebSockets",
+      "Real-time chat",
+      "Data pipelines",
+      "Structured API contracts",
+      "Service boundary design",
+      "Backend performance optimization",
+      "Distributed service integration",
+      "Document processing pipelines",
+      "Audio processing pipelines",
+      "Third-party service integration",
+      "API documentation",
+      "Backend maintainability"
+    ],
+    "frontend": [
+      "ReactJS",
+      "NextJS",
+      "TypeScript",
+      "JavaScript",
+      "TailwindCSS",
+      "Responsive UI",
+      "Dashboard development",
+      "Component-based architecture",
+      "Frontend performance optimization",
+      "Frontend caching",
+      "Reducing re-rendering",
+      "Interactive UI features",
+      "Accessibility-aware UI",
+      "User experience improvement",
+      "Reusable frontend components",
+      "Frontend-backend integration",
+      "Search UI development",
+      "Admin dashboard development",
+      "SaaS interface development"
+    ],
+    "database_search": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Firebase",
+      "Redis",
+      "Vector databases",
+      "Embedded vector databases",
+      "PomaiDB",
+      "Database schema design",
+      "Query optimization",
+      "Hybrid lexical and vector retrieval",
+      "Semantic indexing",
+      "Local indexing",
+      "High-dimensional embedding search",
+      "Memory-efficient retrieval",
+      "Custom memory allocator concepts",
+      "Zero-dependency search systems",
+      "Data isolation",
+      "Workspace-based data separation",
+      "Transactional data processing",
+      "Pattern mining",
+      "Frequent itemset mining",
+      "Association rule mining"
+    ],
+    "devops": [
+      "Docker",
+      "Linux",
+      "CI/CD basics",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Cloudflare",
+      "Reverse proxy",
+      "Nginx basics",
+      "VPS deployment",
+      "On-premise deployment",
+      "Local deployment",
+      "Edge deployment",
+      "Environment configuration",
+      "Service deployment",
+      "Resource-constrained deployment",
+      "Self-hosted AI systems"
+    ],
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "C",
+      "C++",
+      "C99",
+      "C++20",
+      "SQL",
+      "LaTeX"
+    ],
+    "business_product": [
+      "Requirement gathering",
+      "Client communication",
+      "Stakeholder communication",
+      "Business goal analysis",
+      "Translating business needs into engineering tasks",
+      "Feature refinement",
+      "Competitor research",
+      "Product thinking",
+      "User value analysis",
+      "Task planning",
+      "Delivery tracking",
+      "Code review coordination",
+      "Technical consultation",
+      "Product workflow design",
+      "Use case analysis",
+      "Workflow automation analysis",
+      "Acceptance-oriented thinking",
+      "Documentation-oriented communication",
+      "Cross-functional communication",
+      "Prioritization support",
+      "Product feature breakdown"
+    ],
+    "soft_skills": [
+      "Technical ownership",
+      "Fast self-learning",
+      "Problem solving",
+      "System thinking",
+      "Debugging",
+      "Performance-focused mindset",
+      "Product-minded engineering",
+      "Team communication",
+      "Client-facing communication",
+      "Research-to-engineering translation",
+      "Architecture thinking",
+      "Practical execution",
+      "Maintainability mindset",
+      "Curiosity-driven development",
+      "Challenge-driven learning"
+    ]
+  },
+  "experiences": [
+    {
+      "company": "VINA MACHINE",
+      "role": "AI Engineer / Backend AI Services",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "Nov 2025",
+      "end_date": "Present",
+      "employment_type": "Professional Experience",
+      "description": "Built backend AI services and AI product pipelines involving LLMs, OCR, speech-to-text, text-to-speech, document workflows, translation workflows, and backend service integration.",
+      "technologies": [
+        "LLMs",
+        "OCR",
+        "STT",
+        "TTS",
+        "Backend APIs",
+        "Microservices",
+        "Document processing",
+        "Audio processing",
+        "AI service integration"
+      ],
+      "bullets": [
+        "Built backend AI services using LLMs, OCR, speech-to-text, and text-to-speech for translation and document workflow use cases.",
+        "Designed microservice-based APIs with clear service boundaries, structured data flow, and maintainable integration patterns.",
+        "Connected model inference, document processing, audio processing, and backend services into working product pipelines.",
+        "Improved service performance for higher throughput and lower latency in distributed AI service environments.",
+        "Built AI features that can be integrated into user-facing applications and internal business tools.",
+        "Worked on practical AI workflows where model inference must connect reliably with backend systems and product requirements.",
+        "Helped bridge raw AI model capabilities with usable backend services that can be deployed and maintained."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "Backend AI Engineer",
+        "Applied AI Engineer",
+        "Backend Developer",
+        "AI Product Engineer"
+      ]
+    },
+    {
+      "company": "Skipli",
+      "role": "Website Development Engineer",
+      "location": "Remote / USA",
+      "start_date": "Nov 2025",
+      "end_date": "Apr 2026",
+      "employment_type": "Professional Experience",
+      "description": "Built and improved responsive web applications, optimized frontend performance, supported product direction, and developed reusable frontend features.",
+      "technologies": [
+        "ReactJS",
+        "NextJS",
+        "Frontend optimization",
+        "Caching",
+        "Responsive UI",
+        "Web development",
+        "Reusable components"
+      ],
+      "bullets": [
+        "Built and improved responsive web applications using modern frontend and backend technologies.",
+        "Improved data loading speed by 20% and reduced re-rendering time by 30% through caching and frontend optimization.",
+        "Developed interactive UI features with attention to performance, accessibility, and user experience.",
+        "Supported product direction through competitor research, UI/UX improvements, and feature refinement.",
+        "Wrote reusable frontend code to make pages easier to maintain, test, and extend.",
+        "Contributed to web application quality by improving interface behavior, loading flow, and maintainability."
+      ],
+      "role_relevance": [
+        "Full-stack Developer",
+        "Frontend Developer",
+        "Product Owner",
+        "Business Analyst",
+        "Junior Developer"
+      ]
+    },
+    {
+      "company": "Independent Software Consultant",
+      "role": "Technical Lead",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "Jun 2025",
+      "end_date": "Nov 2025",
+      "employment_type": "Consulting / Freelance Experience",
+      "description": "Led engineering tasks, worked directly with clients, translated business goals into engineering work, designed backend systems, and delivered custom web applications and smart systems.",
+      "technologies": [
+        "NestJS",
+        "ExpressJS",
+        "Node.js",
+        "MongoDB",
+        "MySQL",
+        "Docker",
+        "REST APIs",
+        "JWT",
+        "OAuth2",
+        "Backend architecture"
+      ],
+      "bullets": [
+        "Led a 5-member engineering team across task planning, code review, delivery tracking, and technical execution.",
+        "Worked directly with clients to gather requirements and turn business goals into clear engineering tasks.",
+        "Partnered with clients to clarify technical requirements, provide architectural consultation, and define implementation direction.",
+        "Designed and deployed custom smart systems using Docker for cloud and on-premise environments.",
+        "Built scalable backend services and custom web applications using NestJS and ExpressJS.",
+        "Designed database schemas and optimized queries across MongoDB and MySQL.",
+        "Delivered REST APIs with authentication and authorization using JWT and OAuth2.",
+        "Translated high-level product needs into backend modules, database structures, user flows, and development tasks.",
+        "Balanced engineering feasibility, client requirements, and delivery constraints while leading implementation."
+      ],
+      "role_relevance": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Business Analyst",
+        "Product Owner",
+        "Technical Lead",
+        "AI Product Engineer"
+      ]
+    },
+    {
+      "company": "HUTECH - Ho Chi Minh City University of Technology",
+      "role": "AI Research Engineer",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "Apr 2023",
+      "end_date": "Oct 2025",
+      "employment_type": "Academic / Research Experience",
+      "description": "Worked on AI research prototypes, data mining algorithms, human activity recognition, signal processing, computer vision, and technical experiments with academic researchers.",
+      "technologies": [
+        "Python",
+        "C",
+        "Data Mining",
+        "Pattern Mining",
+        "Computer Vision",
+        "Object Detection",
+        "Object Tracking",
+        "Signal Processing",
+        "Wi-Fi CSI",
+        "HAR",
+        "Benchmarking"
+      ],
+      "bullets": [
+        "Translated theoretical AI concepts into practical applications by transforming academic models into scalable and reusable engineering prototypes.",
+        "Engineered high-performance algorithms for large-scale pattern mining, reducing computational redundancy and improving search efficiency.",
+        "Developed end-to-end data pipelines for Human Activity Recognition using Wi-Fi Channel State Information and signal processing techniques.",
+        "Implemented and optimized real-time computer vision architectures for multi-object detection and continuous tracking.",
+        "Collaborated with PhD and Master-level researchers to design and execute technical experiments across AI, data mining, and signal processing domains.",
+        "Worked on benchmark-oriented implementation where runtime, memory usage, and algorithmic efficiency were important evaluation factors."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "Research Engineer",
+        "Data Mining Engineer",
+        "Computer Vision Engineer",
+        "Applied AI Engineer"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "PomaiEm",
+      "date": "2025 - Present",
+      "type": "Enterprise SaaS HRM and AI Automation Platform",
+      "status": "Active",
+      "links": {
+        "demo": "https://youtu.be/0ujbOGHRLHg?si=yW6r64SkL51HhSc3"
+      },
+      "technologies": [
+        "ReactJS",
+        "Node.js",
+        "Express",
+        "Flask",
+        "Firebase",
+        "Redis",
+        "RabbitMQ",
+        "WebSockets",
+        "PomaiDB",
+        "Cheesebrain",
+        "Cheesepath",
+        "RBAC",
+        "API Gateway",
+        "Microservices"
+      ],
+      "description": "Enterprise HRM SaaS platform with workspace isolation, role-based access control, real-time chat, payroll/reporting background jobs, semantic search, and AI agent automation workflows.",
+      "bullets": [
+        "Built an enterprise HRM platform with microservices, API Gateway, RBAC, workspace isolation, real-time chat, and AI search.",
+        "Designed workspace provisioning so different companies and user groups can use separated data, roles, and permissions.",
+        "Implemented centralized authentication and authorization with JWT and RBAC for secure access control.",
+        "Added RabbitMQ and Redis to handle background jobs such as payroll, reporting, notifications, and AI-assisted automation flows.",
+        "Built encrypted real-time chat with WebSockets for one-to-one and group communication.",
+        "Added internal semantic search and automation features to help users manage HR information faster.",
+        "Integrated PomaiDB, Cheesebrain, and Cheesepath to support local LLM hosting, semantic retrieval, and agent-based workflow automation.",
+        "Built AI agent tools that help users automate HR actions such as creating tasks, assigning schedules, creating goals, listing goals, and searching company data.",
+        "Designed the platform around practical HR workflows including user management, workspace separation, check-in/check-out, shift scheduling, payroll, reporting, and internal communication."
+      ],
+      "business_value": [
+        "Helps companies manage HR data, roles, schedules, payroll-related tasks, communication, and internal knowledge search in one platform.",
+        "Demonstrates ability to translate business workflows into software modules, permissions, data models, and automation features.",
+        "Useful for CVs targeting Full-stack Developer, Backend Developer, Business Analyst, Product Owner, and AI Product roles."
+      ],
+      "role_relevance": [
+        "Full-stack Developer",
+        "Backend Developer",
+        "AI Engineer",
+        "Business Analyst",
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "Po-Health",
+      "date": "Apr 2026 - Present",
+      "type": "Local Drug Retrieval and AI Assistant System",
+      "status": "Active",
+      "links": {
+        "demo": "https://youtu.be/-3J2Cwv7lno?si=dBodod-OhoyacZ6l"
+      },
+      "technologies": [
+        "NextJS",
+        "Flask",
+        "RAG",
+        "Qwen 0.5B",
+        "PomaiDB",
+        "Cheesebrain",
+        "Cheesepath",
+        "Vector Retrieval",
+        "Local LLM",
+        "Semantic Search"
+      ],
+      "description": "Local AI search system for drug retrieval with frontend search UI, backend APIs, local model inference, vector indexing, and assistant-style retrieval workflows.",
+      "bullets": [
+        "Built a fullstack local AI search system for drug retrieval with frontend search UI, backend APIs, local inference, and vector retrieval.",
+        "Supported search by both drug name and drug description, making retrieval more useful than simple keyword search.",
+        "Connected NextJS frontend, Flask backend, RAG pipeline, local model inference, and PomaiDB indexing into one working product.",
+        "Used PomaiDB for local vector search, Cheesebrain for local LLM hosting, and Cheesepath for agent tool orchestration.",
+        "Added assistant-style workflows for searching information, preparing structured results, and supporting local automation flows.",
+        "Reduced local model memory use by about 20% using a context-squeezing approach.",
+        "Reduced drug search time by about 30% through better retrieval logic and local indexing.",
+        "Designed the system to run locally, making it more private and easier to deploy in resource-limited environments."
+      ],
+      "business_value": [
+        "Demonstrates practical use of AI search in healthcare-like information retrieval workflows.",
+        "Shows ability to combine frontend, backend, local AI inference, and vector retrieval into a complete product.",
+        "Useful for AI Engineer, Full-stack Developer, Healthcare AI, and AI Product roles."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "Applied AI Engineer",
+        "RAG Engineer",
+        "Full-stack Developer",
+        "AI Product Engineer"
+      ]
+    },
+    {
+      "name": "Cheeserag",
+      "date": "Mar 2026 - Present",
+      "type": "Local-First Agentic RAG Platform",
+      "status": "Active",
+      "links": {
+        "github": "https://github.com/pomagrenate/cheeserag"
+      },
+      "technologies": [
+        "Local LLM",
+        "RAG Backend",
+        "Agent Tools",
+        "Vector Search",
+        "PomaiDB",
+        "Cheesebrain",
+        "Cheesepath",
+        "Tool-calling",
+        "Prompt Caching",
+        "Context Compression",
+        "Self-hosted AI"
+      ],
+      "description": "Self-hosted RAG backend connecting local LLM inference, vector search, and agent workflow control for private and resource-conscious AI applications.",
+      "bullets": [
+        "Built a self-hosted RAG backend that connects local LLM inference, vector search, and agent workflow control.",
+        "Integrated Cheesebrain for model hosting, PomaiDB for vector storage and retrieval, and Cheesepath for agent orchestration.",
+        "Added local tool-calling so the system can search data, run tools, create actions, and answer questions without external services.",
+        "Used prompt caching and context compression to reduce repeated computation in long-context workflows.",
+        "Designed the platform for private, on-premise, and edge AI use cases where data control and stable performance matter.",
+        "Focused on local-first AI workflows where privacy, offline capability, CPU-friendly inference, and low resource usage are important.",
+        "Created a foundation for AI tools that can automate tasks, schedule actions, create goals, list goals, retrieve knowledge, and interact with structured backend tools."
+      ],
+      "business_value": [
+        "Demonstrates AI infrastructure thinking beyond simple API usage.",
+        "Shows ability to build RAG systems, tool-calling workflows, and local AI runtime integration.",
+        "Useful for AI Engineer, Backend AI Engineer, LLM Engineer, and RAG Engineer roles."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "LLM Engineer",
+        "RAG Engineer",
+        "Backend AI Engineer",
+        "Applied AI Engineer"
+      ]
+    },
+    {
+      "name": "PomaiDB",
+      "date": "Dec 2025 - Present",
+      "type": "Embedded Multimodal Vector Database",
+      "status": "Active",
+      "links": {
+        "github": "https://github.com/pomagrenate/pomaidb",
+        "website": "https://pomaidb-web.vercel.app/"
+      },
+      "technologies": [
+        "C++20",
+        "C11",
+        "SIMD",
+        "Lock-Free Concurrency",
+        "Zero-Copy I/O",
+        "Vector Search",
+        "Hybrid Retrieval",
+        "Custom Memory Allocator",
+        "Embedded Database",
+        "Local AI Search"
+      ],
+      "description": "Embedded vector database designed for local, edge, IoT, and cloud-like AI search use cases with memory-conscious indexing and retrieval.",
+      "bullets": [
+        "Built an embedded vector database for local, edge, IoT, and cloud-like AI search.",
+        "Designed a custom memory allocator for low-memory high-dimensional embedding search.",
+        "Reached about 42.4 MiB peak memory usage in an IoT-style test environment.",
+        "Implemented hybrid lexical and vector retrieval for practical RAG applications.",
+        "Designed the system as a lightweight alternative to heavy third-party databases for local semantic search.",
+        "Focused on low-level performance, memory usage, and zero-dependency deployment for AI search systems."
+      ],
+      "business_value": [
+        "Shows strong systems engineering capability.",
+        "Supports AI search and RAG use cases through local vector retrieval.",
+        "Useful for AI infrastructure, systems, backend, and database-related roles."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "Systems Engineer",
+        "Backend Developer",
+        "Database Engineer",
+        "RAG Engineer"
+      ]
+    },
+    {
+      "name": "Cheesebrain",
+      "date": "Mar 2026 - Present",
+      "type": "Local LLM Inference Engine",
+      "status": "Active",
+      "links": {
+        "github": "https://github.com/pomagrenate/cheesebrain"
+      },
+      "technologies": [
+        "Local AI Runtime",
+        "LLM Inference",
+        "Prompt Caching",
+        "Context Compression",
+        "GGUF Models",
+        "RAG Backend Integration",
+        "OCR Workflow Integration",
+        "Speech Workflow Integration"
+      ],
+      "description": "Local LLM inference backend adapted for RAG, OCR, speech, reasoning, prompt caching, and context compression workflows.",
+      "bullets": [
+        "Reworked a local LLM inference engine into a modular backend for RAG, OCR, speech, and reasoning workflows.",
+        "Built semantic prompt caching to reduce repeated computation for common prompts and context blocks.",
+        "Implemented context compression to make long-context AI workflows more efficient.",
+        "Focused on local AI deployment where speed, privacy, and resource usage matter.",
+        "Integrated with Cheeserag and PomaiDB as part of a local-first AI system stack."
+      ],
+      "business_value": [
+        "Shows capability to work close to AI runtime infrastructure.",
+        "Useful for local AI, LLM backend, and AI systems roles."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "LLM Engineer",
+        "Backend AI Engineer",
+        "Systems Engineer"
+      ]
+    },
+    {
+      "name": "Cheesepath",
+      "date": "2026 - Present",
+      "type": "Agent Tool Orchestration Layer",
+      "status": "Active",
+      "links": {},
+      "technologies": [
+        "Agent Tooling",
+        "Tool-calling",
+        "Workflow Orchestration",
+        "RAG Orchestration",
+        "Backend Tools",
+        "Local Automation"
+      ],
+      "description": "Agent orchestration layer used to connect local LLMs with backend tools, retrieval systems, and structured automation workflows.",
+      "bullets": [
+        "Built orchestration logic for connecting local LLM outputs with backend tools and workflow actions.",
+        "Used as part of PomaiEm, Po-Health, and Cheeserag to enable agent-based automation and tool-calling.",
+        "Supported workflows such as searching data, creating tasks, assigning schedules, creating goals, listing goals, and preparing structured outputs.",
+        "Designed around local-first automation without requiring external AI agent platforms."
+      ],
+      "business_value": [
+        "Shows ability to build practical agent tooling instead of only prompting LLMs.",
+        "Useful for AI Engineer, Product Engineer, and Backend AI roles."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "Agent Engineer",
+        "Backend AI Engineer",
+        "AI Product Engineer"
+      ]
+    },
+    {
+      "name": "C-DataMiner / dm Framework",
+      "date": "Mar 2024 - Present",
+      "type": "Pure C99 Data Mining Framework and Benchmarking Environment",
+      "status": "Active",
+      "links": {
+        "github": "https://github.com/oh-mah-c/dm"
+      },
+      "technologies": [
+        "C99",
+        "Data Mining",
+        "Frequent Pattern Mining",
+        "Association Rules",
+        "Memory Pools",
+        "Bitsets",
+        "Hash Tables",
+        "FP-Trees",
+        "Benchmarking",
+        "Performance Measurement"
+      ],
+      "description": "Open-source data mining framework written in C99 for extracting hidden patterns, frequent itemsets, and association rules from transactional datasets.",
+      "bullets": [
+        "Built a pure C99 data mining framework for extracting hidden patterns, frequent itemsets, and association rules from transactional databases.",
+        "Designed a zero-dependency core using custom memory pools, bitsets, hash tables, and FP-Tree-style structures for speed and memory efficiency.",
+        "Unified multiple data mining algorithms under a single dynamic interface.",
+        "Supported techniques for both vertical and horizontal data formats.",
+        "Created a low-level benchmarking environment for sparse and dense datasets.",
+        "Integrated high-resolution hardware timers to track wall time, kernel mode time, and peak RAM usage.",
+        "Used the framework as an experimentation base for CPU-friendly algorithm design and practical AI research."
+      ],
+      "business_value": [
+        "Shows algorithmic thinking, low-level implementation skill, and research-to-code ability.",
+        "Useful for AI Engineer, Research Engineer, Systems Engineer, and algorithm-heavy roles."
+      ],
+      "role_relevance": [
+        "AI Engineer",
+        "Research Engineer",
+        "Systems Engineer",
+        "Data Mining Engineer"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Technology",
+      "degree": "B.S. in Information Technology",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_date": "2022",
+      "end_date": "2026",
+      "gpa": "3.72 / 4.00",
+      "details": [
+        "Studied Information Technology with focus across software engineering, backend systems, databases, AI, and applied system development.",
+        "Student representative for 3.5 years.",
+        "Completed academic and project work related to software development, data systems, AI research prototypes, and practical engineering."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SQL Intermediate",
+      "issuer": "HackerRank",
+      "details": [
+        "Validated SQL querying and relational database problem-solving skills."
+      ]
+    },
+    {
+      "name": "SQL Top 10%",
+      "issuer": "TestDome",
+      "details": [
+        "Demonstrated strong SQL performance relative to test takers."
+      ]
+    }
+  ],
+  "achievements_metrics": [
+    {
+      "metric": "20% faster data loading",
+      "context": "Improved data loading speed through caching and frontend optimization during website development work."
+    },
+    {
+      "metric": "30% reduced re-rendering time",
+      "context": "Reduced frontend re-rendering time through optimization and reusable frontend implementation."
+    },
+    {
+      "metric": "5-member team led",
+      "context": "Led engineering team across task planning, code review, delivery tracking, and technical execution."
+    },
+    {
+      "metric": "3.72 / 4.00 GPA",
+      "context": "B.S. in Information Technology."
+    },
+    {
+      "metric": "20% reduced local model memory use",
+      "context": "Applied context-squeezing approach in Po-Health/local AI workflow."
+    },
+    {
+      "metric": "30% reduced drug search time",
+      "context": "Improved retrieval logic and local indexing in Po-Health."
+    },
+    {
+      "metric": "42.4 MiB peak memory usage",
+      "context": "PomaiDB IoT-style vector database test environment."
+    }
+  ],
+  "working_style": [
+    {
+      "title": "Product-minded",
+      "description": "Builds features around user value and business workflow needs, not only technical implementation."
+    },
+    {
+      "title": "Backend-aware",
+      "description": "Designs APIs, data flow, authentication, service boundaries, and database structures with long-term maintainability in mind."
+    },
+    {
+      "title": "Performance-focused",
+      "description": "Looks for ways to improve loading speed, rendering behavior, caching, memory usage, retrieval latency, and overall system responsiveness."
+    },
+    {
+      "title": "AI-ready",
+      "description": "Can add practical AI capabilities into real products through RAG, local inference, OCR/STT/TTS, semantic search, and tool-calling."
+    },
+    {
+      "title": "System builder",
+      "description": "Enjoys understanding problems deeply, designing architecture, writing core logic, and optimizing systems until they become faster, cleaner, and more reliable."
+    },
+    {
+      "title": "Challenge-driven",
+      "description": "Interested in difficult engineering problems, especially local-first AI, embedded systems, backend infrastructure, and resource-constrained deployment."
+    }
+  ],
+  "cv_generation_rules": {
+    "allowed_to_use": [
+      "All facts, skills, projects, experiences, metrics, education, certifications, and role positioning in this JSON profile."
+    ],
+    "must_not_invent": [
+      "Do not invent new companies.",
+      "Do not invent new job titles.",
+      "Do not invent new dates.",
+      "Do not invent new certifications.",
+      "Do not invent new metrics.",
+      "Do not invent user counts, revenue, funding, production scale, or enterprise clients unless explicitly present in this profile.",
+      "Do not claim expert-level mastery unless the JD and profile strongly support it.",
+      "Do not overstate Junior-level applications as Senior-level experience."
+    ],
+    "rewrite_behavior": [
+      "Select only the most relevant facts for the target JD.",
+      "Rewrite bullets professionally and concisely.",
+      "Reorder skills based on JD keywords.",
+      "Prefer evidence-backed skills from projects and experience.",
+      "For AI Engineer roles, prioritize LLM, RAG, local inference, vector retrieval, AI backend services, and AI systems projects.",
+      "For Full-stack roles, prioritize ReactJS, NextJS, Node.js, ExpressJS, Flask, REST APIs, SaaS platforms, authentication, WebSockets, dashboards, and database work.",
+      "For Backend roles, prioritize API design, microservices, authentication, databases, Redis, RabbitMQ, WebSockets, service boundaries, and performance.",
+      "For Business Analyst roles, prioritize requirement gathering, client communication, competitor research, product workflows, task breakdown, and translating business goals into engineering tasks.",
+      "For Product Owner roles, prioritize product thinking, feature refinement, workflow design, business value, user value, task planning, and cross-functional communication."
+    ]
+  }
+}
